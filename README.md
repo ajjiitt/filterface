@@ -1,2 +1,3 @@
 # flutter_deep_ar_face_effect
- First flutter tutorial
+ This app is created using camera_deepAR plugin to implement filter's.
+ 
